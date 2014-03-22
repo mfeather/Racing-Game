@@ -1,0 +1,37 @@
+Super Extreme 3D Racing Game!
+by Mark Feather
+
+Description:
+A third-person racing game that implements dynamic pixel lighting effects.
+
+Features:
+
+x Drifting race physics
+
+x Third-person camera
+
+x Lap timer
+
+x Collision detection
+
+x 3D terrain for tracks
+
+Get a B Here!
+
+x First-person camera
+
+x Split-screen multiplayer
+
+x Speed panels
+
+x Sweet sound effects
+
+x Sweet jumps
+
+Get an A Here!
+
+- Three tracks
+
+- Three different vehicles with unique handling
+
+- Particle effects for collision

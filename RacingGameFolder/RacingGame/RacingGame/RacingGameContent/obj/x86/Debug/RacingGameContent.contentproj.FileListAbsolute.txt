@@ -1,0 +1,6 @@
+F:\XNA\RacingGame\RacingGame\RacingGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\XNA\RacingGame\RacingGame\RacingGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\RacingGame - Copy (8)\RacingGame\RacingGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\RacingGameFolder\RacingGame\RacingGame\RacingGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\XNA\RacingGameFolder\RacingGame\RacingGame\RacingGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\XNA\RacingGameFolder\RacingGame\RacingGame\RacingGameContent\obj\x86\Debug\Sounds\GameAudio.xml
